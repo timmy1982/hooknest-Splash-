@@ -1,0 +1,40 @@
+::selection {
+  background-color:#580ebd;
+  color: #fff;
+}
+::-moz-selection {
+  background-color:#580ebd;
+  color: #fff;
+}
+
+
+a {
+  color:#580ebd;
+}
+
+
+.tab-style-1 .nav > li > a:hover,
+.m-btn-theme:hover,
+.m-btn-t-theme,
+.blog-item .blog-content h4 a:hover,
+.theme-color {
+  color:#580ebd;
+}
+
+
+.header-nav.fixed-header .navbar-nav .nav-link.nav-link-btn,
+.form-group .input-focus-effect,
+.tab-style-1 .nav > li > a:after,
+.m-btn-t-theme:hover,
+.theme-after-bg:after,
+.m-btn-theme,
+.theme-bg {
+  background:#580ebd;
+}
+
+.m-btn-theme,
+.m-btn-t-theme,
+.border-theme,
+.btn-theme {
+  border-color:#580ebd;
+}

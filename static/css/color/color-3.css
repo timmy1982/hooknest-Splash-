@@ -1,0 +1,40 @@
+::selection {
+  background-color:#ca0c55;
+  color: #fff;
+}
+::-moz-selection {
+  background-color:#ca0c55;
+  color: #fff;
+}
+
+
+a {
+  color:#ca0c55;
+}
+
+
+.tab-style-1 .nav > li > a:hover,
+.m-btn-theme:hover,
+.m-btn-t-theme,
+.blog-item .blog-content h4 a:hover,
+.theme-color {
+  color:#ca0c55;
+}
+
+
+.header-nav.fixed-header .navbar-nav .nav-link.nav-link-btn,
+.form-group .input-focus-effect,
+.tab-style-1 .nav > li > a:after,
+.m-btn-t-theme:hover,
+.theme-after-bg:after,
+.m-btn-theme,
+.theme-bg {
+  background:#ca0c55;
+}
+
+.m-btn-theme,
+.m-btn-t-theme,
+.border-theme,
+.btn-theme {
+  border-color:#ca0c55;
+}
